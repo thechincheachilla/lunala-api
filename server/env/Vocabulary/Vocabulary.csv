@@ -1,0 +1,426 @@
+﻿Kanji,Hiragana,English,Origin,Difficulty
+誰,だれ,Who,Genki 1.2,1
+魚,さかな,Fish,Genki 1.2,1
+肉,にく,Meat,Genki 1.2,1
+野菜,やさい,Vegetable,Genki 1.2,1
+本,ほん,"Book, counter for long objects",Genki 1.2,1
+お願い,おねがい,Please ,Genki 1.3,1
+映画,えいが,Movie,Genki 1.3,1
+音楽,おんがく,Music,Genki 1.3,1
+雑誌,ざっし,Magazine,Genki 1.3,1
+酒,さけ,Alcohol,Genki 1.3,1
+茶,ちゃ,Tea,Genki 1.3,1
+水,みず,Water,Genki 1.3,1
+朝ご飯,あさごはん,Breakfast,Genki 1.3,1
+昼ご飯,ひるごはん,Lunch,Genki 1.3,1
+晩ご飯,ばんごはん,Dinner,Genki 1.3,1
+家,いえ,House,Genki 1.3,1
+今日,きょう,Today,Genki 1.3,1
+朝,あさ,Morning,Genki 1.3,1
+今晩,こんばん,Tonight,Genki 1.3,1
+毎日,まいにち,Everyday,Genki 1.3,1
+毎朝,まいあさ,Every morning,Genki 1.3,1
+毎晩,まいばん,Every night,Genki 1.3,1
+週末,しゅうまつ,Weekend,Genki 1.3,1
+土曜日,どようび,Saturday,Genki 1.3,1
+日曜日,にちようび,Sunday,Genki 1.3,1
+行く,いく,To go,Genki 1.3,1
+帰る,かえる,To return home,Genki 1.3,2
+聞く,きく,"To listen, to ask",Genki 1.3,1
+読む,よむ,To read,Genki 1.3,1
+飲む,のむ,To drink,Genki 1.3,1
+話す,はなす,To speak,Genki 1.3,1
+勉強する,べんきょうする,To study,Genki 1.3,1
+起きる,おきる,To get up,Genki 1.3,1
+食べる,たべる,To eat,Genki 1.3,1
+寝る,ねる,To go to bed,Genki 1.3,1
+見る,みる,To see,Genki 1.3,1
+来る,くる,To come,Genki 1.3,1
+早い,はやい,Early,Genki 1.3,2
+全然,ぜんぜん,"Not at all, never",Genki 1.3,1
+時々,ときどき,Sometimes,Genki 1.3,1
+買い物,かいもの,Shopping,Genki 1.4,0
+犬,いぬ,Dog,Genki 1.4,0
+猫,ねこ,Cat,Genki 1.4,0
+人,ひと,Person,Genki 1.4,0
+子供,こども,Child,Genki 1.4,0
+椅子,いす,Chair,Genki 1.4,0
+机,つくえ,Desk,Genki 1.4,0
+写真,しゃしん,Picture,Genki 1.4,0
+花,はな,Flower,Genki 1.4,0
+ご飯,ごはん,"Rice, meal",Genki 1.4,0
+お寺,おてら,Temple,Genki 1.4,0
+公園,こうえん,Park,Genki 1.4,0
+バス停,ばすてい,Bus stop,Genki 1.4,0
+病院,びょういん,Hospital,Genki 1.4,0
+本屋,ほんや,Bookstore,Genki 1.4,0
+町,まち,Town,Genki 1.4,0
+昨日,きのう,Yesterday,Genki 1.4,0
+時間,じかん,"~hours, time",Genki 1.4,0
+先週,せんしゅう,Last week,Genki 1.4,0
+時,とき,What time,Genki 1.4,0
+月曜日,げつようび,Monday,Genki 1.4,0
+火曜日,かようび,Tuesday,Genki 1.4,0
+水曜日,すいようび,Wednesday,Genki 1.4,0
+木曜日,もくようび,Thursday,Genki 1.4,0
+金曜日,きんようび,Friday,Genki 1.4,0
+会う,あう,To meet,Genki 1.4,0
+買う,かう,To buy,Genki 1.4,0
+撮る,とる,To take ,Genki 1.4,0
+待つ,まつ,To wait,Genki 1.4,0
+一人で,ひとりで,Alone,Genki 1.4,0
+右,みぎ,Right,Genki 1.4,0
+左,ひだり,Left,Genki 1.4,0
+前,まえ,Front,Genki 1.4,0
+後ろ,うしろ,Behind,Genki 1.4,0
+中,なか,Inside,Genki 1.4,0
+外,そと,Outside,Genki 1.4,0
+上,うえ,Above,Genki 1.4,0
+下,した,Below,Genki 1.4,0
+近く,ちかく,Near,Genki 1.4,0
+隣,となり,"Near, next to, next door",Genki 1.4,0
+間,あいだ,Between ,Genki 1.4,0
+食べ物,たべもの,Food,Genki 1.5,0
+飲み物,のみもの,Drink,Genki 1.5,0
+果物,くだもの,Fruit,Genki 1.5,0
+部屋,へや,Room,Genki 1.5,0
+僕,ぼく,I (Male),Genki 1.5,0
+休み,やすみ,Vacation,Genki 1.5,0
+旅行,りょこう,Travel,Genki 1.5,0
+海,うみ,Sea,Genki 1.5,0
+土産,みやげ,Souvenir ,Genki 1.5,0
+天気,てんき,Weather,Genki 1.5,0
+宿題,しゅくだい,Homework,Genki 1.5,0
+誕生日,たんじょうび,Birthday,Genki 1.5,0
+新しい,あたらしい,New,Genki 1.5,0
+古い,ふるい,Old,Genki 1.5,0
+熱い,あつい,Hot (thing),Genki 1.5,0
+暑い,あつい,Hot (weather),Genki 1.5,0
+寒い,さむい,Cold (weather),Genki 1.5,0
+忙しい,いそがしい,Busy,Genki 1.5,0
+大きい,おおきい,Big ,Genki 1.5,0
+小さい,ちいさい,Small,Genki 1.5,0
+面白い,おもしろい,"Funny, interesting",Genki 1.5,0
+難しい,むずかしい,Difficult,Genki 1.5,0
+怖い,こわい,Scary,Genki 1.5,0
+楽しい,たのしい,Fun,Genki 1.5,0
+安い,やすい,Cheap,Genki 1.5,0
+好き,すき,Like,Genki 1.5,0
+嫌い,きらい,Dislike,Genki 1.5,0
+大好き,だいすき,Love,Genki 1.5,0
+大嫌い,だいきらい,Hate,Genki 1.5,0
+元気,げんき,"Lively, well",Genki 1.5,0
+静か,しずか,Quiet,Genki 1.5,0
+暇,ひま,Free (not busy),Genki 1.5,0
+泳ぎ,およぐ,To swim,Genki 1.5,0
+乗る,のる,To ride,Genki 1.5,0
+出かける,でかける,To go out,Genki 1.5,0
+一緒に,いっしょに,Together ,Genki 1.5,0
+大丈夫,だいじょうぶ,"Surely, problem-free, ""that's alright""",Genki 1.5,0
+枚,まい,Counter for flat objects,Genki 1.5,0
+漢字,かんじ,Kanji,Genki 1.6,0
+次,つぎ,Next,Genki 1.6,0
+夜,よる,Night,Genki 1.6,0
+教科書,きょうかしょ,Textbook,Genki 1.6,0
+お金,おかね,Money,Genki 1.6,0
+荷物,にもつ,Luggage ,Genki 1.6,0
+窓,まど,Window,Genki 1.6,0
+電車,でんしゃ,Train,Genki 1.6,0
+電気,でんき,Electricity,Genki 1.6,0
+国,くに,Origin,Genki 1.6,0
+今週,こんしゅう,This week,Genki 1.6,0
+来月,らいげつ,Next month,Genki 1.6,0
+来年,らいねん,Next year,Genki 1.6,0
+大変,たいへん,"Very, greatly, terribly, awfully",Genki 1.6,0
+遊ぶ,あそぶ,To play,Genki 1.6,0
+急ぐ,いそぐ,To hurry,Genki 1.6,0
+返す,かえす,To return,Genki 1.6,0
+座る,すわる,To sit,Genki 1.6,0
+立つ,たつ,To stand,Genki 1.6,0
+たばこを吸う,たばこをすう,To smoke,Genki 1.6,0
+使う,つかう,To use,Genki 1.6,0
+手伝う,てつだう,To help,Genki 1.6,0
+入る,はいる,To enter,Genki 1.6,0
+持つ,もつ,To carry,Genki 1.6,0
+休む,やすむ,"To be absent, to rest",Genki 1.6,0
+開ける,あける,To open,Genki 1.6,0
+閉める,しめる,To close,Genki 1.6,0
+教える,おしえる,"To instruct, teach",Genki 1.6,0
+降りる,おりる,To get off,Genki 1.6,0
+借りる,かりる,To borrow,Genki 1.6,0
+シャワーを浴びる,シャワーをあびる,To shower,Genki 1.6,0
+電話する,でんわする,To call,Genki 1.6,0
+連れてくる,つれてくる,To bring (a person),Genki 1.6,0
+持ってくる,もってくる,To bring (a thing),Genki 1.6,0
+後で,あとで,"Later, afterwards",Genki 1.6,0
+結構です,けっこうです,"Sufficient, wonderful, ""I'm fine"", ""No thanks""",Genki 1.6,0
+本当ですか,ほんとうですか,Really?,Genki 1.6,0
+家族,かぞく,Family,Genki 1.7,0
+父,ちち,My father,Genki 1.7,0
+母,はは,My mother,Genki 1.7,0
+兄,あに,My older brother,Genki 1.7,0
+お兄さん,おにいさん,Older brother,Genki 1.7,0
+姉,あね,My older sister,Genki 1.7,0
+お姉さん,おねえさん,Older sister,Genki 1.7,0
+弟,おとうと,My younger brother,Genki 1.7,0
+妹,いもうと,My younger sister,Genki 1.7,0
+兄弟,きょうだい,Siblings,Genki 1.7,0
+男の人,おとこのひと,Man,Genki 1.7,0
+女の人,おんなのひと,Woman,Genki 1.7,0
+会社,かいしゃ,"Office, company",Genki 1.7,0
+食堂,しょくどう,Cafeteria ,Genki 1.7,0
+髪,かみ,Hair,Genki 1.7,0
+目,め,Eye,Genki 1.7,0
+口,くち,Mouth,Genki 1.7,0
+別に,べつに,Nothing in particular,Genki 1.7,0
+眼鏡,めがね,Eyeglasses ,Genki 1.7,0
+車,くるま,Car,Genki 1.7,0
+歌,うた,Song,Genki 1.7,0
+長い,ながい,Long (length),Genki 1.7,0
+短い,みじかい,Short (length),Genki 1.7,0
+速い,はやい,Fast,Genki 1.7,0
+背が高い,せがたかい,Tall (stature),Genki 1.7,0
+背が低い,せがひくい,Short (stature),Genki 1.7,0
+頭がいい,あたまがいい,"Clever, bright",Genki 1.7,0
+親切,しんせつ,"Kind, gentle, considerate",Genki 1.7,0
+便利,べんり,Convenient,Genki 1.7,0
+歌う,うたう,To sing,Genki 1.7,0
+被る,かぶる,To put on (head),Genki 1.7,0
+履く,はく,To put on (lower body),Genki 1.7,0
+知る,しる,To get to know,Genki 1.7,0
+住む,すむ,To live,Genki 1.7,0
+働く,はたらく,To work,Genki 1.7,0
+太る,ふとる,To gain weight,Genki 1.7,0
+着る,きる,To put on (upper body),Genki 1.7,0
+結婚する,けっこんする,To get married,Genki 1.7,0
+私,わたし,I,Duolingo 1,0
+名,な,"Title, prefix",Duolingo 1,0
+名前,なまえ,Name,Duolingo 1,0
+名前,?????,From (country),Duolingo 1,0
+言い,いい,Call (named),Duolingo 1,0
+気,き,Spirit,Duolingo 1,0
+先生,せんせい,Teacher,Duolingo 1,0
+学生,がくせい,Student,Duolingo 1,0
+本田,ほんだ,Honda (name),Duolingo 1,0
+田中,たなか,Tanaka (name),Duolingo 1,0
+中村,なかむら,Nakamura (name),Duolingo 1,0
+茂,しげる,Shigeru (name),Duolingo 1,0
+桜,さくら,Sakura (name),Duolingo 1,0
+中国,ちゅうごく,China,Duolingo 1,0
+日本,にほん,Japan,Duolingo 1,0
+語,ご,Language,Duolingo 1,0
+英語,えいご,English,Duolingo 1,0
+鳥,とり,Bird,Duolingo 1,0
+何,なに,What,Duolingo 1,0
+卵,たまご,Egg,Duolingo 2.1,0
+分,ぷん,Minute,Duolingo 2.1,0
+今,いま,Now,Duolingo 2.1,0
+半,はん,Half,Duolingo 2.1,0
+午前,ごぜん,A.M.,Duolingo 2.1,0
+午後,ごご,P.M.,Duolingo 2.1,0
+零時,れいじ,Midnight,Duolingo 2.1,0
+月,げつ,Month (moon),Duolingo 2.1,0
+曜日,ようび,Day,Duolingo 2.1,0
+明日,あした,Tomorrow,Duolingo 2.1,0
+明後日,あさって,The day after tomorrow,Duolingo 2.1,0
+一昨日,おととい,The day before yesterday,Duolingo 2.1,0
+平日,へいじつ,Weekday,Duolingo 2.1,0
+昼,ひる,"Afternoon, midday",Duolingo 2.1,0
+晩,ばん,Night,Duolingo 2.1,0
+良く,よく,Often,Duolingo 2.1,0
+羽,わ,Counter for birds and rabbits,Duolingo 2.1,0
+歳,さい,Counter for age,Duolingo 2.1,0
+個,こ,Counter for round objects,Duolingo 2.1,0
+冊,さつ,Counter for books,Duolingo 2.1,0
+一,いち,One,Duolingo 2.1,0
+二,に,Two,Duolingo 2.1,0
+三,さん,Three,Duolingo 2.1,0
+四,よん,Four,Duolingo 2.1,0
+五,ご,Five,Duolingo 2.1,0
+六,ろく,Six,Duolingo 2.1,0
+七,なな,Seven,Duolingo 2.1,0
+八,はち,Eight,Duolingo 2.1,0
+九,きゅう,Nine,Duolingo 2.1,0
+十,じゅう,Ten,Duolingo 2.1,0
+百,きゃく,Hundred,Duolingo 2.1,0
+千,せん,Thousand,Duolingo 2.1,0
+万,まん,Ten thousand,Duolingo 2.1,0
+円,えん,Yen ,Duolingo 2.1,0
+一人,ひとり,One person,Duolingo 2.1,0
+子,こ,Young (thing),Duolingo 2.1,0
+申し,もうし,To be called (name),Duolingo 2.1,0
+外国人,がいこくじん,Foreigner,Duolingo 2.1,0
+年生,ねんせい,Student in ... year,Duolingo 2.1,0
+大学,だいがく,University,Duolingo 2.1,0
+高校,こうこう,High school,Duolingo 2.1,0
+中学,ちゅうがく,Middle school,Duolingo 2.1,0
+小学,しょうがく,Elementary school,Duolingo 2.1,0
+留学生,りゅうがくせい,Foreign exchange student ,Duolingo 2.1,0
+彼,かれ,He,Duolingo 2.1,0
+彼女,かのじょ,Her,Duolingo 2.1,0
+姉妹,しまい,Sisters ,Duolingo 2.1,0
+両親,りょうしん,Parents,Duolingo 2.1,0
+親戚,しんせき,Relatives,Duolingo 2.1,0
+友達,ともだち,Friend,Duolingo 2.1,0
+息子,むすこ,Son,Duolingo 2.1,0
+娘,むすめ,Daughter,Duolingo 2.1,0
+孫,まご,Grandchild,Duolingo 2.1,0
+孫息子,まごむすこ,Grandson,Duolingo 2.1,0
+孫娘,まごむすめ,Granddaughter,Duolingo 2.1,0
+夫,おっと,My husband,Duolingo 2.1,0
+妻,つま,My wife,Duolingo 2.1,0
+ご主人,ごしゅじん,Your husband,Duolingo 2.1,0
+奥さん,おくさん,Your wife,Duolingo 2.1,0
+祖父,そふ,Grandfather,Duolingo 2.1,0
+祖母,そぼ,Grandmother ,Duolingo 2.1,0
+父親,ちちおや,Husband,Duolingo 2.1,0
+母親,ははおや,Wife,Duolingo 2.1,0
+在宅,ざいたく,At home,Duolingo 2.1,0
+行ってきます,いってきます,See you later,Duolingo 2.1,0
+似ています,にています,Resembles,Duolingo 2.1,0
+走る,はしる,To run,Duolingo 2.1,0
+書く,かく,To write,Duolingo 2.1,0
+描く,かく,To draw,Duolingo 2.1,0
+習う,ならう,To learn,Duolingo 2.1,0
+仕事する,しごとする,To work,Duolingo 2.1,0
+旅行する,りょこうする,To travel,Duolingo 2.1,0
+散歩する,さんぽする,To walk,Duolingo 2.1,0
+風呂,ふろ,Bathtub,Duolingo 2.1,0
+台,だい,Table,Duolingo 2.1,0
+事,こと,Thing,Duolingo 2.1,0
+仕事,しごと,Job,Duolingo 2.1,0
+棚,たな,Shelf,Duolingo 2.1,0
+本棚,ほんだな,Bookshelf,Duolingo 2.1,0
+隅,すみ,Corner,Duolingo 2.1,0
+片隅,かたすみ,Corner,Duolingo 2.1,0
+布団,ふとん,Futon,Duolingo 2.1,0
+鏡,かがみ,Mirror,Duolingo 2.1,0
+冷蔵庫,れいぞうこ,Refrigerator,Duolingo 2.1,0
+紙,かみ,Paper,Duolingo 2.1,0
+手紙,てがみ,Letter,Duolingo 2.1,0
+絵,え,Picture,Duolingo 2.1,0
+学校,がっこう,School,Duolingo 2.1,0
+会,かい,Meeting,Duolingo 2.1,0
+台所,だいどころ,Kitchen,Duolingo 2.1,0
+庭,にわ,Yard,Duolingo 2.1,0
+寝室,しんしつ,Bedroom,Duolingo 2.1,0
+所,ところ,Place,Duolingo 2.1,0
+京都,きょうと,Kyoto,Duolingo 2.1,0
+東京,とうきょう,Tokyo,Duolingo 2.1,0
+大阪,おおさか,Osaka,Duolingo 2.1,0
+阪,さか,Hill,Duolingo 2.1,0
+韓国,かんこく,Korea,Duolingo 2.1,0
+台湾,たいわん,Taiwan,Duolingo 2.1,0
+違い,ちがい,"That's not right, difference",Duolingo 2.1,0
+直美,なおみ,Naomi (name),Duolingo 2.1,0
+健太,けんた,Kenta (name),Duolingo 2.1,0
+冷たい,つめたい,Cold (thing),Duolingo 2.1,0
+高い,たかい,Expensive,Duolingo 2.1,0
+甘い,あまい,Sweet,Duolingo 2.1,0
+低い,ひくい,Low,Duolingo 2.1,0
+横,よこ,"Aside, next to ",Duolingo 2.1,0
+旅している,たびしている,To take a trip (continuous form),Duolingo 2.1,0
+海外,かいがい,Overseas,Duolingo 2.1,0
+半分,,Half,Duolingo 2.2,0
+本当,ほんとう,Very,Duolingo 2.2,0
+色,いろ,Color,Duolingo 2.2,0
+赤い,あかい,Red,Duolingo 2.2,0
+青い,あおい,Blue,Duolingo 2.2,0
+白い,しろい,White,Duolingo 2.2,0
+黄色い,きいろい,Yellow,Duolingo 2.2,0
+黒い,くろい,Black,Duolingo 2.2,0
+茶色,ちゃいろ,Brown,Duolingo 2.2,0
+冬,ふゆ,Winter,Duolingo 2.2,0
+春,はる,Spring,Duolingo 2.2,0
+夏,なつ,Summer,Duolingo 2.2,0
+秋,あき,Autumn,Duolingo 2.2,0
+北,きた,North,Duolingo 2.2,0
+東,ひがし,East,Duolingo 2.2,0
+南,みなみ,South,Duolingo 2.2,0
+西,にし,West,Duolingo 2.2,0
+北東,ほくとう,Northeast,Duolingo 2.2,0
+雪,ゆき,Snow,Duolingo 2.2,0
+雨,あめ,Rain,Duolingo 2.2,0
+空,そら,Sky,Duolingo 2.2,0
+風,かぜ,Wind,Duolingo 2.2,0
+今朝,けさ,This morning,Duolingo 2.2,0
+今夜,こんや,This evening,Duolingo 2.2,0
+夕べ,ゆうべ,Last night,Duolingo 2.2,0
+夕方,ゆうがた,Evening,Duolingo 2.2,0
+昼間,ひるま,Daytime,Duolingo 2.2,0
+地下鉄,ちかてつ,"Subway, metro",Duolingo 2.2,0
+自転車,じてんしゃ,Bicycle,Duolingo 2.2,0
+飛行機,ひこうき,Airplane,Duolingo 2.2,0
+空港,くうこう,Airport,Duolingo 2.2,0
+駅,えき,Station,Duolingo 2.2,0
+映画館,えいがかん,Movie theater,Duolingo 2.2,0
+建物,たてもの,Building,Duolingo 2.2,0
+銀行,ぎんこう,Bank,Duolingo 2.2,0
+店,みせ,Store,Duolingo 2.2,0
+鉄,てつ,Iron,Duolingo 2.2,0
+地図,ちず,Map,Duolingo 2.2,0
+入り口,いりぐち,Entrance,Duolingo 2.2,0
+出口,でぐち,Exit,Duolingo 2.2,0
+道,みち,Road,Duolingo 2.2,0
+通り,とおり,Road,Duolingo 2.2,0
+角,かど,Corner,Duolingo 2.2,0
+服,ふく,Clothes,Duolingo 2.2,0
+靴,くつ,Shoes,Duolingo 2.2,0
+帽子,ぼうし,Hat,Duolingo 2.2,0
+電話,でんわ,Phone,Duolingo 2.2,0
+新聞,しんぶん,Newspaper,Duolingo 2.2,0
+番号,ばんごう,Number,Duolingo 2.2,0
+電話番号,でんわばんごう,Phone number,Duolingo 2.2,0
+夕飯,ゆうはん,Dinner,Duolingo 2.2,0
+弁当,べんと,"Bento, lunchbox",Duolingo 2.2,0
+塩,しお,Salt,Duolingo 2.2,0
+砂糖,さとう,Sugar,Duolingo 2.2,0
+醬油,しょうゆ,Soy sauce,Duolingo 2.2,0
+牛乳,ぎゅうにゅう,Milk,Duolingo 2.2,0
+紅茶,こうちゃ,Black tea,Duolingo 2.2,0
+お腹,おなか,Stomach,Duolingo 2.2,0
+皿,さら,Plate,Duolingo 2.2,0
+箸,はし,Chopstick,Duolingo 2.2,0
+寿司,すし,Sushi ,Duolingo 2.2,0
+茶碗,ちゃわん,Rice bowl,Duolingo 2.2,0
+好物,こうぶつ,Favorite food,Duolingo 2.2,0
+来週,らいしゅう,Next week,Duolingo 2.2,0
+再来週,さらいしゅう,The week after next,Duolingo 2.2,0
+今月,こんげつ,This month,Duolingo 2.2,0
+再来月,さらいげつ,The month after next,Duolingo 2.2,0
+脱ぐ,ぬぐ,To take off ,Duolingo 2.2,0
+洗う,あらう,"To clean, wash",Duolingo 2.2,0
+歩く,あるく,To walk,Duolingo 2.2,0
+弾く,ひく,To play (instrument),Duolingo 2.2,0
+作る,つくる,To make,Duolingo 2.2,0
+吹く,ふく,To blow,Duolingo 2.2,0
+進む,すすむ,"To advance, go forward",Duolingo 2.2,0
+曲がる,まがる,To turn,Duolingo 2.2,0
+お腹が空く,おなかがすく,To become hungry,Duolingo 2.2,0
+出る,でる,To exit,Duolingo 2.2,0
+通る,とおる,To go past,Duolingo 2.2,0
+食べ過ぎる,たべすぎる,To overeat,Duolingo 2.2,0
+練習する,れんしゅうする,To practice,Duolingo 2.2,0
+料理する,りょうりする,To cook ,Duolingo 2.2,0
+向こう,むこう,"Opposite side, over there",Duolingo 2.2,0
+遠い,とおい,Far ,Duolingo 2.2,0
+近い,ちかい,Close,Duolingo 2.2,0
+遅い,おそい,Slow,Duolingo 2.2,0
+欲しい,ほしい,Want,Duolingo 2.2,0
+明るい,あかるい,Bright,Duolingo 2.2,0
+暗い,くらい,Dark,Duolingo 2.2,0
+暖かい,あたたかい,Warm,Duolingo 2.2,0
+涼しい,すずしい,Cool,Duolingo 2.2,0
+良い,よい,Good,Duolingo 2.2,0
+悪い,わるい,Bad,Duolingo 2.2,0
+弱い,よわい,Weak,Duolingo 2.2,0
+強い,つよい,Strong,Duolingo 2.2,0
+多い,おおい,"Numerous, a lot, many",Duolingo 2.2,0
+広い,ひろい,"Spacious, big",Duolingo 2.2,0
+狭い,せまい,"Narrow, small",Duolingo 2.2,0
+塩っぱい,しおっぱい,Salty,Duolingo 2.2,0
+晴れ,はれ,"Clear, sunny",Duolingo 2.2,0
+曇り,くもり,Cloudy,Duolingo 2.2,0
+少ない　,すくない,"Few, scarce, insufficient",Duolingo 2.2,0
+全部,ぜんぐ,All,Duolingo 2.2,0
+結構,けっこう,"Splendid, wonderful, nice ",Duolingo 2.2,0
