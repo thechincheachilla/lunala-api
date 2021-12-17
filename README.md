@@ -1,8 +1,13 @@
 # lunala-api
 
-### Flask Setup
-Note: PIP must be installed. If not, install PIP from Python; it comes included: https://www.python.org/downloads/
-Navigate to the server directory \
-Run: ```python -m venv env```\
-Run: ```source env/bin/activate``` \
-Run: ```pip install Flask==1.1.2 Flask-Cors==3.0.10```
+### Running on Heroku
+Easy way: impport this GitHub repo to a Heroku repo 
+Manual way: \
+Install the Heroku CLI, run ```heroku login``` and login\
+Run: ```heroku create <NAME> --buildpack heroku/python```\
+Run: ```git init```\
+Run: ```git add .```\
+Run: ```git commit -m "Commit message thingy"```\
+Run: ```heroku git:remote -a <NAME from step 2>```\
+Run: ```git push heroku master```\
+App deployed at https://<NAME>.herokuapp.com/
