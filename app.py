@@ -1,36 +1,6 @@
-# import os
-# from flask import Flask, jsonify
-# from flask_restful import Resource, Api
-# from flask_cors import CORS
-
-# app = Flask(__name__)
-# api = Api(app)
-# CORS(app)
-
-
-# class status (Resource):
-#     def get(self):
-#         try:
-#             return {'data': 'Api is Running'}
-#         except:
-#             return {'data': 'An Error Occurred during fetching Api'}
-
-
-# class Sum(Resource):
-#     def get(self, a, b):
-#         return jsonify({'data': a+b})
-
-
-# api.add_resource(status, '/')
-# api.add_resource(Sum, '/add/<int:a>,<int:b>')
-
-# # if __name__ == '__main__':
-# #     app.run()
-
 import os
 import json
 from flask import Flask, jsonify, request, flash, redirect, send_from_directory, abort
-from flask_restful import Resource, Api
 from flask.helpers import send_from_directory
 from flask_cors import CORS
 import pandas as pd
@@ -52,21 +22,24 @@ app.config.from_object(__name__)
 # enable CORS
 CORS(app, resources={r'/*': {'origins': '*'}})
 
-# class status (Resource):
-#     def get(self):
-#         try:
-#             return {'data': 'Api is Running'}
-#         except:
-#             return {'data': 'An Error Occurred during fetching Api'}
-
-# api.add_resource(status, '/')
-
 @app.route('/', methods=['GET'])
 def home():
     try:
         return {'data': 'L.U.N.A.L.A API is Running'}
     except:
         return {'data': 'An Error Occurred during fetching Api'}
+
+@app.route('/getAuth', methods=['GET'])
+def getAuth():
+    try:
+        dict = {}
+        with open('Credentials/Credentials.txt') as fh:
+            for line in fh:
+                creds = line.strip().split(',', 1)
+                dict[creds[0]] = creds[1]
+            return json.dumps(dict)
+    except: 
+        return {'data': 'An error ocurred retrieving credentials'}
 
 
 @app.route('/getVocab', methods=['GET'])
