@@ -10,7 +10,7 @@ UPLOAD_FOLDER = 'Vocabulary'
 ALLOWED_EXT = {'csv'}
 
 # configuration
-DEBUG = True
+DEBUG = False
 
 # instantiate the app
 app = Flask(__name__)
@@ -51,5 +51,5 @@ def saveSCV():
 
 
 if __name__ == '__main__':
-    app.run(ssl_context='adhoc')
-    # app.run()
+    # app.run(ssl_context='adhoc')
+    app.run()
