@@ -10,4 +10,4 @@ Run: ```git add .```\
 Run: ```git commit -m "Commit message thingy"```\
 Run: ```heroku git:remote -a NAME_FROM_STEP_2```\
 Run: ```git push heroku master```\
-App deployed at https://NAME.herokuapp.com/
+App deployed at https://NAME.herokuapp.com/ (in this case, https://lunala-api.herokuapp.com)
