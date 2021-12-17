@@ -1,4 +1,5 @@
 import os
+import json
 from flask import Flask, jsonify, request, flash, redirect, send_from_directory, abort
 from flask.helpers import send_from_directory
 from flask_cors import CORS
@@ -22,13 +23,6 @@ CORS(app, resources={r'/*': {'origins': '*'}})
 def getVocab():
     return pd.read_csv('Vocabulary/Vocabulary.csv').to_json()
 
-# @app.route('/getVocab', methods=['GET'])
-# def getVocab():
-#     try:
-#         return send_from_directory(UPLOAD_FOLDER, filename='Vocabulary.csv', as_attachment=True)
-#     except FileNotFoundError:
-#         abort(404)
-
 def allowed_file(filename):
     return '.' in filename and \
         filename.rsplit('.', 1)[1].lower() in ALLOWED_EXT
@@ -44,6 +38,16 @@ def replace():
         new_file.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
     return 'Replacement upload failure'
 
+@app.route('/saveCSV', methods=['POST'])
+def saveSCV():
+    try:
+        new_file_obj = request.get_json()
+        df = pd.read_json(json.dumps(new_file_obj))
+        df.to_csv('Vocabulary/Vocabulary.csv', encoding='utf-8', index=False)
+        print("Accepted CSV:\n", df)
+        return 'Success'
+    except:
+        return 'CSV failed to save'
 
 
 if __name__ == '__main__':
