@@ -41,6 +41,13 @@ def getAuth():
     except: 
         return {'data': 'An error ocurred retrieving credentials'}
 
+@app.route('/getCSV', methods=['GET'])
+def getCSV():
+    try:
+        return send_from_directory('Vocabulary', filename='Vocabulary.csv', as_attachment=True)
+    except FileNotFoundError:
+        abort(404)
+
 
 @app.route('/getVocab', methods=['GET'])
 def getVocab():
