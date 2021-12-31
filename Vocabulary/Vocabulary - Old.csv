@@ -233,47 +233,47 @@
 乾杯,かんぱい,Cheers! ,Genki 1.8,2,Phrase
 残念,ざんねん,That's too bad,Genki 1.8,3,Phrase
 度,ど,Temperature (degrees),Genki 1.8,1,Counter
-単語,たんご,"Word, vocabulary",Genki 1.9,1,Noun - Concept
-作文,さくぶん,"Essay, composition",Genki 1.9,2,Noun - Object
-試験,しけん,Exam,Genki 1.9,1,Noun - Object
-手紙,てがみ,Letter,Genki 1.9,1,Noun - Object
-歌舞伎,かぶき,"Kabuki, traditional theatre",Genki 1.9,2,Noun - Concept
-お弁当,おべんとう,Boxed lunch,Genki 1.9,1,Noun - Food
-病気,びょうき,Illness,Genki 1.9,1,Noun - Concept
-薬,くすり,Medicine,Genki 1.9,1,Noun - Object
-いい子,いいこ,Good child,Genki 1.9,1,Noun - Living
-色,いろ,Color,Genki 1.9,1,Noun - Concept
-今度,こんど,Near future,Genki 1.9,2,Noun - Concept
-先月,せんげつ,Last month,Genki 1.9,1,Noun - Concept
-去年,きょねん,Last year,Genki 1.9,1,Noun - Concept
-青い,あおい,Blue,Genki 1.9,1,Adjective - い
-赤い,あかい,Red,Genki 1.9,1,Adjective - い
-黒い,くろい,Black,Genki 1.9,1,Adjective - い
-白い,しろい,White,Genki 1.9,1,Adjective - い
-寂しい,さびしい,Lonely,Genki 1.9,3,Adjective - い
-若い,わかい,Young,Genki 1.9,2,Adjective - い
-意地悪,いじわる,Mean spirited ,Genki 1.9,2,Adjective - な
-踊る,おどる,To dance,Genki 1.9,2,Verb - Godan
-終わる,おわる,To finish,Genki 1.9,2,Verb - Godan
-薬を飲む,くすりをのむ,To take medicine,Genki 1.9,2,Verb - Godan
-人気がある,にんきがある,To be popular,Genki 1.9,1,Verb - Godan
-始まる,はじまる,To begin,Genki 1.9,1,Verb - Godan
-弾く,ひく,To play a string instrument/piano,Genki 1.9,1,Verb - Godan
-覚える,おぼえる,To memorize,Genki 1.9,2,Verb - Ichidan
-出る,でる,To leave,Genki 1.9,1,Verb - Ichidan
-運動する,うんどうする,To exercise,Genki 1.9,3,Verb - suru
-散歩する,さんぽする,To walk,Genki 1.9,1,Verb - suru
-是非,ぜひ,By all means,Genki 1.9,2,Phrase
-一つ,ひとつ,One thing,Genki 1.9,1,Counter
-二つ,ふたつ,Two things,Genki 1.9,1,Counter
-三つ,みっつ,Three things,Genki 1.9,1,Counter
-四つ,よっつ,Four things,Genki 1.9,1,Counter
-五つ,いつつ,Five things,Genki 1.9,1,Counter
-六つ,むっつ,Six things,Genki 1.9,1,Counter
-七つ,ななつ,Seven things,Genki 1.9,1,Counter
-八つ,やっつ,Eight things,Genki 1.9,1,Counter
-九つ,ここのつ,Nine things,Genki 1.9,1,Counter
-十,とお,Ten things,Genki 1.9,1,Counter
+単語,たんご,"Word, vocabulary",Genki 1.9,0,Noun - Concept
+作文,さくぶん,"Essay, composition",Genki 1.9,0,Noun - Object
+試験,しけん,Exam,Genki 1.9,0,Noun - Object
+手紙,てがみ,Letter,Genki 1.9,0,Noun - Object
+歌舞伎,かぶき,"Kabuki, traditional theatre",Genki 1.9,0,Noun - Concept
+お弁当,おべんとう,Boxed lunch,Genki 1.9,0,Noun - Food
+病気,びょうき,Illness,Genki 1.9,0,Noun - Concept
+薬,くすり,Medicine,Genki 1.9,0,Noun - Object
+いい子,いいこ,Good child,Genki 1.9,0,Noun - Living
+色,いろ,Color,Genki 1.9,0,Noun - Concept
+今度,こんど,Near future,Genki 1.9,0,Noun - Concept
+先月,せんげつ,Last month,Genki 1.9,0,Noun - Concept
+去年,きょねん,Last year,Genki 1.9,0,Noun - Concept
+青い,あおい,Blue,Genki 1.9,0,Adjective - い
+赤い,あかい,Red,Genki 1.9,0,Adjective - い
+黒い,くろい,Black,Genki 1.9,0,Adjective - い
+白い,しろい,White,Genki 1.9,0,Adjective - い
+寂しい,さびしい,Lonely,Genki 1.9,0,Adjective - い
+若い,わかい,Young,Genki 1.9,0,Adjective - い
+意地悪,いじわる,Mean spirited ,Genki 1.9,0,Adjective - な
+踊る,おどる,To dance,Genki 1.9,0,Verb - Godan
+終わる,おわる,To finish,Genki 1.9,0,Verb - Godan
+薬を飲む,くすりをのむ,To take medicine,Genki 1.9,0,Verb - Godan
+人気がある,にんきがある,To be popular,Genki 1.9,0,Verb - Godan
+始まる,はじまる,To begin,Genki 1.9,0,Verb - Godan
+弾く,ひく,To play a string instrument/piano,Genki 1.9,0,Verb - Godan
+覚える,おぼえる,To memorize,Genki 1.9,0,Verb - Ichidan
+出る,でる,To leave,Genki 1.9,0,Verb - Ichidan
+運動する,うんどうする,To exercise,Genki 1.9,0,Verb - suru
+散歩する,さんぽする,To walk,Genki 1.9,0,Verb - suru
+是非,ぜひ,By all means,Genki 1.9,0,Phrase
+一つ,ひとつ,One thing,Genki 1.9,0,Counter
+二つ,ふたつ,Two things,Genki 1.9,0,Counter
+三つ,みっつ,Three things,Genki 1.9,0,Counter
+四つ,よっつ,Four things,Genki 1.9,0,Counter
+五つ,いつつ,Five things,Genki 1.9,0,Counter
+六つ,むっつ,Six things,Genki 1.9,0,Counter
+七つ,ななつ,Seven things,Genki 1.9,0,Counter
+八つ,やっつ,Eight things,Genki 1.9,0,Counter
+九つ,ここのつ,Nine things,Genki 1.9,0,Counter
+十,とお,Ten things,Genki 1.9,0,Counter
 私,わたし,I,Duolingo 1,1,Noun - Living
 名,な,"Title, prefix",Duolingo 1,1,Noun - Origin 
 名前,なまえ,Name,Duolingo 1,1,Noun - Origin 
@@ -409,7 +409,7 @@
 青い,あおい,Blue,Duolingo 2.2,1,Noun - Color
 白い,しろい,White,Duolingo 2.2,1,Noun - Color
 黄色い,きいろい,Yellow,Duolingo 2.2,1,Noun - Color
-黒い,くろい,Black,Duolingo 2.2,1,Noun - Color
+黒い,くろい,Black,Duolingo 2.2,2,Noun - Color
 茶色,ちゃいろ,Brown,Duolingo 2.2,1,Noun - Color
 冬,ふゆ,Winter,Duolingo 2.2,1,Noun - Season
 春,はる,Spring,Duolingo 2.2,1,Noun - Season
